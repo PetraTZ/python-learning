@@ -1,1 +1,1 @@
-# python-learning
+# python-training with interns
